@@ -20,11 +20,11 @@
 
 .intro-form {
   position: relative;
-//   margin-bottom: 50px;
+  //   margin-bottom: 50px;
   max-width: 450px;
   margin: 0 auto 50px;
 
-  form{
+  form {
     display: flex;
   }
   button {
@@ -68,7 +68,7 @@
 }
 
 .intro-btn {
-  @include respond('tab-port'){
+  @include respond("tab-port") {
     margin-bottom: 50px;
   }
   .btn-primary {

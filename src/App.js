@@ -3,6 +3,7 @@ import React from "react";
 
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import "./css/style.css";
+// import "antd/dist/antd.css";
 import Index from "./jsx";
 import { Lines } from "react-preloaders";
 
